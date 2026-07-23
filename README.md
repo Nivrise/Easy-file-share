@@ -9,9 +9,6 @@
 ⚡ Fast streaming with instant seeking
 🖥️ Windows & macOS support
 
-📸 Screenshot
-(Add a screenshot here)
-
 💻 Installation
 Windows
 Download Easy-File-Share-Windows.exe from the Releases page.
