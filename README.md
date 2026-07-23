@@ -16,8 +16,6 @@
 Windows
 Download Easy-File-Share-Windows.exe from the Releases page.
 Run the installer.
-Run the firewall script as Administrator:
-.\fix-windows-firewall.ps1
 Launch Easy File Share.
 
 macOS
